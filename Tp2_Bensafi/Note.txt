@@ -1,0 +1,11 @@
+Bonjour Monsieur,
+je vous écrit afin de vous joindre le lien de mon environnement de développement en ligne GoogleColab, mais j'ai également joins les fichiers des données aissi le code python.
+
+https://colab.research.google.com/drive/1OfWg2w0jJS3HQLopHkpncYohG6rbrltB?usp=sharing
+
+ps:
+les liens de des données sont par rapport au drives.
+
+Merci à vous;
+Bien cordialement,
+Bensafi Sarra.
